@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def mergesort(self, data, left, right):
         if left < right:
